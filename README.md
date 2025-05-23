@@ -5,7 +5,7 @@ Repository for Design & Analysis of Algorithms Secondary Quiz.
 | Name                              | Student ID | Class  |
 | ----------------------------------|------------|:------:|
 | Alya Putri Salma                  | 5025211174 | DAA G  |
-| Meyroja Zovancha Firoos           | 5025211196 | DAA G  | 
+| Meyroja Zovancha Firoos           | 5025211204 | DAA G  | 
 | Rafi Aliefian Putra Ramadhani     | 5025211234 | DAA G  |
 
 # **Question**
@@ -45,7 +45,7 @@ The following is the division of tasks and the percentage contribution of each m
 | Name                              | Student ID | Work Contribution  |
 | ----------------------------------|:----------:|:------------------:|
 | Alya Putri Salma                  | 5025211174 |       33.33%       | 
-| Meyroja Zovancha Firoos           | 5025211 |       33.33%       | 
+| Meyroja Zovancha Firoos           | 5025211204 |       33.33%       | 
 | Rafi Aliefian Putra Ramadhani     | 5025211 |       33.33%       |
 
 ## **Work Structural**
