@@ -26,11 +26,6 @@ The following is the result of our work based on the questions above.
 
 Using Prim's (Minimum Spanning Trees) and Depth First Search algorithms to create a maze generator program, and then solving it using the Depth First Search Algorithm.
 
-## **Maze Problem Preview**
-Here is the visualization for Maze Problem:
-
-![Maze](https://cdn.discordapp.com/attachments/1083730715113426985/1108425060206784523/image.png)
-
 ## **Maze Description**
 <div align=justify>
 Maze is a puzzle-like structure composed of interconnected passages or paths that challenges navigational skills. It serves various purposes such as entertainment, education, and research. Mazes can be created in different shapes and sizes and can be two-dimensional or three-dimensional. The objective is usually to find a path from a starting point to a finishing point while navigating through complex twists and turns, which can include obstacles like dead ends, false paths, and traps. Mazes have a long history and have been used for spiritual, entertainment, and educational purposes. Today, they are commonly used in theme parks and video games. Mazes can be created using various methods and require careful planning and consideration of factors such as the purpose, level of difficulty, and target audience.
