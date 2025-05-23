@@ -6,7 +6,7 @@ Repository for Design & Analysis of Algorithms Secondary Quiz.
 | ----------------------------------|------------|:------:|
 | Alya Putri Salma                  | 5025211174 | DAA G  |
 | Meyroja Zovancha Firoos           | 5025211204 | DAA G  | 
-| Rafi Aliefian Putra Ramadhani     | 5025211234 | DAA G  |
+| Danno Denis Dhaifullah            | 5025211027 | DAA G  |
 
 # **Question**
 <div align=justify>
@@ -46,7 +46,7 @@ The following is the division of tasks and the percentage contribution of each m
 | ----------------------------------|:----------:|:------------------:|
 | Alya Putri Salma                  | 5025211174 |       33.33%       | 
 | Meyroja Zovancha Firoos           | 5025211204 |       33.33%       | 
-| Rafi Aliefian Putra Ramadhani     | 5025211 |       33.33%       |
+| Danno Denis Dhaifullah            | 5025211207 |       33.33%       |
 
 ## **Work Structural**
 **Alya Putri Salma:** <br>
@@ -61,7 +61,7 @@ The following is the division of tasks and the percentage contribution of each m
 - Completing the program (main)
 - Edit and help compile README.md
 
-**Rafi Aliefian Putra Ramadhani:**
+**Danno Denis Dhaifullah:**
 - Arranging Implementation Problems
 - Making Conclusions, finish reports
 - Develop the program structure and complete the generator program
